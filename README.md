@@ -1,26 +1,26 @@
-# [Project Name] 🎯
+# TechABLE 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Code Crusters
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Jonia Seby - Sahrdaya College Of Engineering
+- Member 2: Gowrinandana A M - Sahrdaya College Of Engineering
+- Member 3: krishnanjana M A -  Sahrdaya College Of Engineering
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+TechABLE is an innovative job portal web app dedicated to connecting disabled individuals with employement opportunities that match their skills and abilities.our platform promotes inclusivity ,diversity,and  equal access to job listings and career resources.Unlocking potential,one job at a time.
 
-### The Problem statement
-[What ridiculous problem are you solving?]
+### problem statement
+Many disabled individuals face significant barriers when searching for employement,including inaccessible job listings,biased hiring practices,and lack of accomodotions.This leads to disproportionality high rates of underemployment among disabled individuals.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+connecting talented individuals with disabilities to inclusive employers and accessible job opportunities .Breaking barriers,unlocking dreams,and empowering a more diverse workforce!
 
 ## Technical Details
 ### Technologies/Components Used
